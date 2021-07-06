@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan7546
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
