@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 rohan15397@gmail.com
 
 <!---
 Rohan7546/Rohan7546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
